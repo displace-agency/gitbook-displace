@@ -5,6 +5,7 @@
 ## About
 
 * [About Displace Agency](about/displace-agency.md)
+* [Services Overview](about/services-overview.md)
 
 ## Client Documentation
 
